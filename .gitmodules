@@ -1,51 +1,51 @@
 [submodule "packages/pve-manager/pve-manager"]
 	path = packages/pve-manager/pve-manager
-	url = https://github.com/jiangcuo/pve-manager.git
+	url = https://github.com/optim-enterprises-bv/pve-manager.git
 [submodule "packages/qemu-server/qemu-server"]
 	path = packages/qemu-server/qemu-server
-	url = https://github.com/jiangcuo/qemu-server.git
+	url = https://github.com/optim-enterprises-bv/qemu-server.git
 [submodule "packages/zfsonlinux/zfsonlinux"]
 	path = packages/zfsonlinux/zfsonlinux
 	url = https://git.proxmox.com/git/zfsonlinux.git
 [submodule "packages/pve-qemu/pve-qemu"]
 	path = packages/pve-qemu/pve-qemu
-	url = https://github.com/jiangcuo/pve-qemu.git
+	url = https://github.com/optim-enterprises-bv/pve-qemu.git
 [submodule "packages/pve-common/pve-common"]
 	path = packages/pve-common/pve-common
-	url = https://github.com/jiangcuo/pve-common
+	url = https://github.com/optim-enterprises-bv/pve-common
 [submodule "packages/pve-installer/pve-installer"]
 	path = packages/pve-installer/pve-installer
-	url = https://github.com/jiangcuo/pve-installer
+	url = https://github.com/optim-enterprises-bv/pve-installer
 [submodule "packages/pve-container/pve-container"]
 	path = packages/pve-container/pve-container
-	url = https://github.com/jiangcuo/pve-container
+	url = https://github.com/optim-enterprises-bv/pve-container
 [submodule "packages/proxmox-archive-keyring/proxmox-archive-keyring"]
 	path = packages/proxmox-archive-keyring/proxmox-archive-keyring
 	url = https://git.proxmox.com/git/proxmox-archive-keyring.git
 [submodule "packages/proxmox-ve/proxmox-ve"]
 	path = packages/proxmox-ve/proxmox-ve
-	url = https://github.com/jiangcuo/proxmox-ve.git
+	url = https://github.com/optim-enterprises-bv/proxmox-ve.git
 [submodule "packages/pve-storage/pve-storage"]
 	path = packages/pve-storage/pve-storage
-	url = https://github.com/jiangcuo/pve-storage.git
+	url = https://github.com/optim-enterprises-bv/pve-storage.git
 [submodule "packages/proxmox-mini-journalreader/proxmox-mini-journalreader"]
 	path = packages/proxmox-mini-journalreader/proxmox-mini-journalreader
 	url = https://git.proxmox.com/git/proxmox-mini-journalreader.git
 [submodule "packages/pve-cluster/pve-cluster"]
 	path = packages/pve-cluster/pve-cluster
-	url = https://github.com/jiangcuo/pve-cluster.git
+	url = https://github.com/optim-enterprises-bv/pve-cluster.git
 [submodule "packages/proxmox-i18n/proxmox-i18n"]
 	path = packages/proxmox-i18n/proxmox-i18n
 	url = https://git.proxmox.com/git/proxmox-i18n
 [submodule "packages/proxmox-widget-toolkit/proxmox-widget-toolkit"]
 	path = packages/proxmox-widget-toolkit/proxmox-widget-toolkit
-	url = https://github.com/jiangcuo/proxmox-widget-toolkit.git
+	url = https://github.com/optim-enterprises-bv/proxmox-widget-toolkit.git
 [submodule "packages/pve-http-server/pve-http-server"]
 	path = packages/pve-http-server/pve-http-server
 	url = https://git.proxmox.com/git/pve-http-server
 [submodule "packages/pve-docs/pve-docs"]
 	path = packages/pve-docs/pve-docs
-	url = https://github.com/jiangcuo/pve-docs
+	url = https://github.com/optim-enterprises-bv/pve-docs
 [submodule "packages/libgit2/libgit2"]
 	path = packages/libgit2/libgit2
 	url = https://git.proxmox.com/git/libgit2
@@ -57,7 +57,7 @@
 	url = https://git.proxmox.com/git/pve-xtermjs
 [submodule "packages/pve-access-control/pve-access-control"]
 	path = packages/pve-access-control/pve-access-control
-	url = https://github.com/jiangcuo/pve-access-control
+	url = https://github.com/optim-enterprises-bv/pve-access-control
 [submodule "packages/ifupdown2/ifupdown2"]
 	path = packages/ifupdown2/ifupdown2
 	url = https://git.proxmox.com/git/ifupdown2
@@ -87,7 +87,7 @@
 	url = https://git.proxmox.com/git/lxc
 [submodule "packages/proxmox-kernel-helper/proxmox-kernel-helper"]
 	path = packages/proxmox-kernel-helper/proxmox-kernel-helper
-	url = https://github.com/jiangcuo/proxmox-kernel-helper
+	url = https://github.com/optim-enterprises-bv/proxmox-kernel-helper
 [submodule "packages/fonts-font-logos/fonts-font-logos"]
 	path = packages/fonts-font-logos/fonts-font-logos
 	url = https://git.proxmox.com/git/fonts-font-logos
@@ -168,16 +168,16 @@
 	url = https://git.proxmox.com/git/proxmox-backup-meta
 [submodule "packages/proxmox-backup-restore-image/proxmox-backup-restore-image"]
 	path = packages/proxmox-backup-restore-image/proxmox-backup-restore-image
-	url = https://github.com/jiangcuo/proxmox-backup-restore-image
+	url = https://github.com/optim-enterprises-bv/proxmox-backup-restore-image
 [submodule "packages/cargo/cargo"]
 	path = packages/cargo/cargo
 	url = https://git.proxmox.com/git/cargo
 [submodule "packages/pve-lxc-syscalld/pve-lxc-syscalld"]
         path = packages/pve-lxc-syscalld/pve-lxc-syscalld
-        url = https://github.com/jiangcuo/pve-lxc-syscalld.git
+        url = https://github.com/optim-enterprises-bv/pve-lxc-syscalld.git
 [submodule "packages/pve-edk2-firmware/pve-edk2-firmware"]
 	path = packages/pve-edk2-firmware/pve-edk2-firmware
-	url = https://github.com/jiangcuo/pve-edk2-firmware.git
+	url = https://github.com/optim-enterprises-bv/pve-edk2-firmware.git
 	branch = pxvirt
 [submodule "packages/pixman/pixman"]
 	path = packages/pixman/pixman
@@ -217,7 +217,7 @@
 	url = https://salsa.debian.org/debian/chrony.git
 [submodule "packages/net-sriov-tools/net-sriov-tools"]
 	path = packages/net-sriov-tools/net-sriov-tools
-	url = https://github.com/jiangcuo/net-sriov-tools
+	url = https://github.com/optim-enterprises-bv/net-sriov-tools
 [submodule "packages/frr/frr"]
 	path = packages/frr/frr
 	url = https://git.proxmox.com/git/frr.git
@@ -232,7 +232,7 @@
 	url = https://git.proxmox.com/git/pve-vgpu-helper.git
 [submodule "packages/pxvirt-spdk/pxvirt-spdk"]
 	path = packages/pxvirt-spdk/pxvirt-spdk
-	url = https://github.com/jiangcuo/pxvirt-spdk
+	url = https://github.com/optim-enterprises-bv/pxvirt-spdk
 [submodule "packages/proxmox-perltidy/proxmox-perltidy"]
 	path = packages/proxmox-perltidy/proxmox-perltidy
 	url = https://git.proxmox.com/git/proxmox-perltidy.git
